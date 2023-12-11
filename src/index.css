@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "IndoPack"; /* Name for your font */
+    src: url("./assets/indoPack.woff2") format("truetype"); /* Path to your font file */
+}
